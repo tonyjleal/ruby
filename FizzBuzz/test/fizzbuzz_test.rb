@@ -1,4 +1,4 @@
-require './fizzbuzz.rb'
+require './lib/fizzbuzz.rb'
 require 'test/unit'
 
 class Fizzbuzz_test < Test::Unit::TestCase
